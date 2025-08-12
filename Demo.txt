@@ -6,3 +6,4 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<p> Testing the feature branch </p>
+	<p> Testing the feature branch testing new line</p>
